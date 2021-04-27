@@ -48,7 +48,7 @@
     
 17\. modifyArray will return an array that contains 2,4,6. modifyArray is called with an array of [1,2,3] and the doSomething function as parameters. Inside modifyArray, a for loop takes each value of the array given through the parameters and calls the doSomething function on each which multiplies each value by 2. These new values are then stored in a new array that is returned.
 
-18. 1  
+19. 1  
     4  
     3  
     2
